@@ -1,4 +1,4 @@
-country_code,Year,Month,day,month_year,total_passengers_official,Domestic,International,total_passengers_open
+country_code,year,month,day,month_year,total_passengers_official,domestic,international,total_passengers_open
 AUS,2014,1,1,January 2014,7992.0,4790.0,3202.0,12600.04
 AUS,2014,2,1,February 2014,6697.0,4207.0,2490.0,10731.179
 AUS,2014,3,1,March 2014,7277.0,4745.0,2532.0,11823.253
