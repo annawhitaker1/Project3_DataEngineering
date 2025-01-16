@@ -19,6 +19,20 @@ The following cleaned datasets were generated:
 
 ## SQL Documentation 
 
+The cleaned data is stored in a SQL database. SQL was chosen for its robust querying capabilities and for its ability to handle structured dat. 
+
+The database consists of the following tables:
+
+1. holidays_travel:
+  - country_code: Foreign key linking to the country_code table.
+  - date, month_year, name, type: Represent holiday details.
+2. monthly_passengers:
+  - country_code: Foreign key linking to the country_code table.
+  - Passenger details: total_passengers_official, domestic, international, total_passengers_open.
+3. country_code:
+  - country: The name of the country.
+  - country_code: Primary key representing the country.
+
 ## ETL Workflow
 
 ## Ethical Considerations
