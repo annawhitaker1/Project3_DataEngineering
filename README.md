@@ -51,6 +51,18 @@ Below is the ERD that illustrates the relationships between the tables:
 
 ## Ethical Considerations
 
+This project incorporates ethical practices in data handling and analysis:
+
+- Data Privacy: The datasets used are publicly available and contain no personally identifiable information.
+
+- Bias Awareness: Acknowledged the potential for regional biases in the data, as some countries or regions may be underrepresented.
+
+- Fair Use: The insights from this project are intended for ethical applications, such as improving travel services and tourism strategies.
+
 ## Data Sources 
 
 https://www.kaggle.com/datasets/umerhaddii/global-holidays-and-travel-data?select=global_holidays.csv
+
+### Contributors
+
+Anna Whitaker, Oanh Nguyen, Rania Al-Samarai, Axel Keller
