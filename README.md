@@ -19,7 +19,7 @@ The following cleaned datasets were generated:
 
 ## SQL Documentation 
 
-The cleaned data is stored in a SQL database. SQL was chosen for its robust querying capabilities and for its ability to handle structured dat. 
+The cleaned data is stored in a SQL database. SQL was chosen for its querying capabilities and for its ability to handle structured dat. 
 
 The database consists of the following tables:
 
@@ -33,7 +33,21 @@ The database consists of the following tables:
   - country: The name of the country.
   - country_code: Primary key representing the country.
 
+## ERD 
+
+<img width="758" alt="image" src="https://github.com/user-attachments/assets/14bb277d-9725-4736-ac6f-a3503cc9afb3" />
+
 ## ETL Workflow
+
+Below is the ERD that illustrates the relationships between the tables:
+
+- Relationships:
+
+  - holidays_travel links to country_code via the country_code foreign key.
+
+  - monthly_passengers links to country_code via the country_code foreign key.
+ 
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/ff7c54bd-4ece-4b88-bd6c-3da9ac7cb625" />
 
 ## Ethical Considerations
 
