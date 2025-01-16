@@ -6,6 +6,17 @@ This project analyzes global holidays and travel data to explore the relationshi
 
 ## How to interact with this dataset
 
+This project includes these key datasets:
+
+  1. global_holidays.csv: The raw dataset containing global holiday information.
+  2. monthly_passengers.csv: The raw dataset containing monthly passenger counts.
+
+The following cleaned datasets were generated:
+
+1. modified_holidays_travel.csv: A cleaned and processed dataset combining global holidays and travel data.
+2. modified_monthly_passengers.csv: A cleaned version of the monthly passenger data.
+3. modified_merged.csv: A merged dataset prepared for analysis.
+
 ## SQL Documentation 
 
 ## ETL Workflow
