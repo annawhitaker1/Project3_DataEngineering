@@ -51,13 +51,8 @@ Below is the ERD that illustrates the relationships between the tables:
 
 ## Ethical Considerations
 
-This project incorporates ethical practices in data handling and analysis:
 
-- Data Privacy: The datasets used are publicly available and contain no personally identifiable information.
-
-- Bias Awareness: Acknowledged the potential for regional biases in the data, as some countries or regions may be underrepresented.
-
-- Fair Use: The insights from this project are intended for ethical applications, such as improving travel services and tourism strategies.
+This project prioritizes ethical standards in data handling and analysis. It uses only publicly available datasets that do not include any personally identifiable information. Potential regional biases are addressed, acknowledging underrepresentation in some areas. The insights are applied ethically, focusing on enhancing travel services and improving tourism strategies.
 
 ## Data Sources 
 
